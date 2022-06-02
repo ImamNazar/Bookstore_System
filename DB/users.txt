@@ -1,0 +1,5 @@
+Imam Imam 0001 MANAGER
+Wiliam will will CASHIER
+Jonathan jona 0000 CASHIER
+Martin martin 0000 MANAGER
+Sasu asasu 1234 CASHIER
